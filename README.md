@@ -1,2 +1,3 @@
-# DeepIP
-A deep learning model for removing internal priming artifacts in polyA site identification
+# DeepIP - Remove internal priming artifacts.
+DeepIp is a component of [PolyAseqTrap](https://github.com/APAexplorer/PolyAseqTrap), a deep learning model designed to remove internal priming artifacts in polyA site identification. Inspired by the **DeepPASTA** model ([Arefeen, et al., 2019](#1)) that predicts polyA sites from DNA sequences, we designed a deep learning model called DeepIP to predict internal priming artifacts from A-rich polyA sites. DeepIP utilizes both convolutional neural network (CNN) and recurrent neural network (RNN). CNN extracts features from sequences, and RNN is used to combine the extracted feature effects for predicting internal priming artifacts.The corresponding DeepIP scripts are available in the PolyAseqTrap GitHub repository.
+
