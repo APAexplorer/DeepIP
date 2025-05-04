@@ -8,4 +8,4 @@ The following datasets are provided for polyA site identification training, deri
 | `Spombe_SRR5276080_PAC_table.Rdata`   | PolyA site training data for *Schizosaccharomyces pombe* (genome: **ASM294**) |
 
 These datasets can be used for training and evaluating polyA site prediction models for their respective species.
-file herer
+file here.
